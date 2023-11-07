@@ -11,3 +11,5 @@ Drawn trends, patterns and used the RFM (Recency, Frequency, and Monetary) techn
 
 📈 𝗧𝗮𝘀𝗸 𝟯: 𝗗𝗮𝘀𝗵𝗯𝗼𝗮𝗿𝗱 𝗖𝗿𝗲𝗮𝘁𝗶𝗼𝗻
 I transformed raw data into captivating stories by crafting dynamic dashboards.
+
+![Screenshot (418)](https://github.com/mahenderkore/KPMG-virtual-internship/assets/124785788/1a381637-09ad-417b-948e-9aebdf8f71c9)
